@@ -5,3 +5,21 @@ body
   background-color: black;
   color: azure;
 }
+
+h3
+{
+  text-decoration: underline;
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.post
+{
+  background-color: #222222;
+  color: #ffe600;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 5px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
